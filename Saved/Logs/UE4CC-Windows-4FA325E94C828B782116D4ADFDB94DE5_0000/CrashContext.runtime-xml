@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-4FA325E94C828B782116D4ADFDB94DE5_0000</CrashGUID>
+		<ProcessId>9260</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>26347</SecondsSinceStart>
+		<GameName>UE4-Tutorial</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.1-3348071+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;D:/UCSC/Gaming Projects/Tutorial/Tutorial.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>en_US</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3348071</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>Vishva</UserName>
+		<BaseDir>C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files/Epic Games/UE_4.15/</RootDir>
+		<MachineId>2BCD08884B9A06AE5BFD88958B688ABA</MachineId>
+		<LoginId>2bcd08884b9a06ae5bfd88958b688aba</LoginId>
+		<EpicAccountId>e291f0b87ae541db87db3b8da4f4a936</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint>Layout=&quot;Document : 0&quot; Label=&quot;Event Graph&quot; Content=SGraphEditor</UserActivityHint>
+		<ErrorMessage>Ensure condition failed: WatchedPin [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Editor\GraphEditor\Private\KismetNodes\KismetNodeInfoContext.cpp] [Line: 92] &nl;&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics Family</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 8.1</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17106624512</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>4483952640</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140732456005632</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>4443869184</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>4443869184</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>4357570560</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>4357570560</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636290623158020000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 8.1  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
