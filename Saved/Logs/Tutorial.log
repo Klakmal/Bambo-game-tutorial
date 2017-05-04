@@ -277,3 +277,1082 @@ LogInit: Object subsystem initialized
 [2017.05.04-04.31.03:850][643]LogStats:                SubmitErrorReport -  0.000 s
 [2017.05.04-04.31.05:919][643]LogStats:                    SendNewReport -  2.070 s
 [2017.05.04-04.31.05:919][643]LogStats:             FDebug::EnsureFailed -  2.257 s
+[2017.05.04-04.47.19:117][  2]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.05.04-04.47.19:136][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.47.19:136][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.04-04.47.19:136][  2]PIE: New page: PIE session: ThirdPersonExampleMap (May 4, 2017, 3:47:19 PM)
+[2017.05.04-04.47.19:137][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.05.04-04.47.19:183][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046068s)
+[2017.05.04-04.47.19:185][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.05.04-04.47.19:186][  2]LogPlayLevel: PIE: World Init took: (0.003087s)
+[2017.05.04-04.47.19:186][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.049717s)
+[2017.05.04-04.47.19:238][  2]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.04-04.47.19:249][  2]LogInit: FAudioDevice initialized.
+[2017.05.04-04.47.19:328][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.05.04-04.47.19:331][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.05.04-10.17.19
+[2017.05.04-04.47.19:332][  2]LogWorld: Bringing up level for play took: 0.002775
+[2017.05.04-04.47.19:461][  2]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.05.04-04.47.19:461][  2]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.47.19:461][  2]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.47.19:461][  2]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.47.19:462][  2]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.47.19:467][  2]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.044
+[2017.05.04-04.47.19:467][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.47.19:506][  3]LogRenderer: Reallocating scene render targets to support 1272x688 NumSamples 1 (Frame:4161).
+[2017.05.04-04.47.59:724][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Bamboo Weapon
+[2017.05.04-04.48.08:473][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Cube
+[2017.05.04-04.48.13:027][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Hello
+[2017.05.04-04.48.13:033][950]PIE:Error: Error SetInputMode_GameAndUI expects a valid player controller as target
+[2017.05.04-04.48.13:037][950]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:037][950]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:037][950]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:042][950]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:059][951]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:060][951]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:060][951]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:065][951]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:089][952]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:089][952]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:089][952]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:092][952]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:119][953]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:119][953]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:119][953]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:122][953]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:146][954]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:146][954]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:146][954]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:150][954]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:174][955]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:174][955]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:174][955]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:177][955]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:201][956]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:201][956]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:201][956]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:205][956]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:227][957]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:227][957]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:227][957]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:231][957]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:254][958]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:254][958]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:255][958]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:258][958]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:282][959]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:282][959]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:282][959]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:285][959]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:308][960]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:308][960]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:308][960]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:312][960]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:336][961]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:336][961]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:336][961]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:339][961]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:363][962]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:363][962]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:363][962]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:366][962]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:389][963]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:390][963]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:390][963]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:392][963]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:417][964]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:417][964]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:417][964]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:420][964]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:445][965]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:445][965]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:445][965]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:448][965]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:471][966]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:471][966]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:471][966]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:474][966]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:499][967]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:499][967]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:499][967]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:503][967]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:525][968]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:526][968]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:526][968]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:528][968]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:553][969]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:553][969]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:553][969]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:555][969]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:579][970]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:579][970]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:579][970]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:584][970]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:606][971]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:606][971]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:606][971]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:609][971]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:635][972]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:635][972]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:635][972]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:638][972]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:661][973]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:661][973]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:661][973]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:665][973]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:687][974]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:687][974]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:687][974]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:690][974]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:715][975]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:715][975]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:715][975]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:717][975]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:742][976]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:742][976]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:742][976]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:745][976]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:769][977]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:769][977]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:769][977]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:772][977]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:796][978]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:796][978]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:796][978]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:800][978]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:824][979]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:824][979]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:824][979]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:828][979]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:851][980]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:851][980]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:851][980]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:854][980]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:877][981]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:877][981]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:877][981]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:881][981]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:904][982]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:904][982]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:904][982]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:907][982]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:931][983]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:931][983]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:932][983]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:936][983]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:957][984]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:957][984]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:958][984]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:961][984]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:985][985]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:985][985]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:985][985]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.13:988][985]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:012][986]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:012][986]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:012][986]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:016][986]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:039][987]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:039][987]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:039][987]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:042][987]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:066][988]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:066][988]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:066][988]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:069][988]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:093][989]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:093][989]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:094][989]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:098][989]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:120][990]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:120][990]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:120][990]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:123][990]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:147][991]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:147][991]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:147][991]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:151][991]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:174][992]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:174][992]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:174][992]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:179][992]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:201][993]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:201][993]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:201][993]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:204][993]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:227][994]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:227][994]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:227][994]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:231][994]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:254][995]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:254][995]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:254][995]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:258][995]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:282][996]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:282][996]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:282][996]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:285][996]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:308][997]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:308][997]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:308][997]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:311][997]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:334][998]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:334][998]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:334][998]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:338][998]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:361][999]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:361][999]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:361][999]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:365][999]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:389][  0]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:389][  0]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:389][  0]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:392][  0]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:417][  1]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:417][  1]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:417][  1]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:420][  1]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:442][  2]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:442][  2]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:442][  2]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:445][  2]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:469][  3]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:469][  3]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:469][  3]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:472][  3]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:496][  4]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:496][  4]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:496][  4]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:500][  4]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:523][  5]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:523][  5]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:523][  5]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:528][  5]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:550][  6]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:550][  6]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:550][  6]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:553][  6]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:577][  7]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:577][  7]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:577][  7]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:581][  7]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:604][  8]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:604][  8]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:604][  8]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:607][  8]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:631][  9]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:631][  9]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:631][  9]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:634][  9]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:657][ 10]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:657][ 10]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:657][ 10]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:660][ 10]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:685][ 11]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:685][ 11]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:685][ 11]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:689][ 11]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:711][ 12]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:711][ 12]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:711][ 12]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:714][ 12]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:738][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:738][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:738][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:741][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:765][ 14]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:765][ 14]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:765][ 14]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:769][ 14]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:793][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:793][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:793][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:796][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:819][ 16]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:819][ 16]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:819][ 16]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:822][ 16]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:846][ 17]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:846][ 17]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:846][ 17]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:850][ 17]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:872][ 18]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:873][ 18]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:873][ 18]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:875][ 18]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:901][ 19]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:901][ 19]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:901][ 19]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:905][ 19]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:928][ 20]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:928][ 20]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:928][ 20]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:932][ 20]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:955][ 21]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:955][ 21]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:955][ 21]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:958][ 21]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:981][ 22]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:981][ 22]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:981][ 22]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.14:984][ 22]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:007][ 23]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:007][ 23]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:007][ 23]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:010][ 23]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:036][ 24]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:036][ 24]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:036][ 24]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:039][ 24]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:062][ 25]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:062][ 25]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:062][ 25]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:065][ 25]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:089][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:089][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:089][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:094][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:120][ 27]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:120][ 27]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:120][ 27]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:125][ 27]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:149][ 28]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:149][ 28]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:149][ 28]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:152][ 28]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:174][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:174][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:174][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:177][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:201][ 30]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:201][ 30]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:201][ 30]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:205][ 30]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:227][ 31]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:227][ 31]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:227][ 31]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:230][ 31]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:254][ 32]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:254][ 32]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:254][ 32]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:257][ 32]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:281][ 33]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:281][ 33]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:281][ 33]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:284][ 33]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:307][ 34]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:307][ 34]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:307][ 34]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:310][ 34]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:335][ 35]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:335][ 35]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:335][ 35]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:337][ 35]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:361][ 36]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:361][ 36]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:361][ 36]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:364][ 36]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:387][ 37]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:387][ 37]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:387][ 37]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:390][ 37]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:415][ 38]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:415][ 38]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:415][ 38]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:418][ 38]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:441][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:441][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:441][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:444][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:468][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:468][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:468][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:471][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:494][ 41]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:494][ 41]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:494][ 41]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:498][ 41]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:521][ 42]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:521][ 42]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:521][ 42]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:524][ 42]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:549][ 43]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:549][ 43]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:549][ 43]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:551][ 43]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:575][ 44]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:575][ 44]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:575][ 44]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:578][ 44]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:601][ 45]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:602][ 45]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:602][ 45]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:604][ 45]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:628][ 46]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:628][ 46]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:629][ 46]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:632][ 46]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:655][ 47]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:655][ 47]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:655][ 47]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:658][ 47]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:682][ 48]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:682][ 48]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:682][ 48]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:684][ 48]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:708][ 49]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:708][ 49]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:708][ 49]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:712][ 49]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:735][ 50]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:735][ 50]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:735][ 50]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:738][ 50]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:761][ 51]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:761][ 51]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:761][ 51]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:765][ 51]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:788][ 52]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:788][ 52]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:788][ 52]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:791][ 52]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:815][ 53]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:815][ 53]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:815][ 53]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:818][ 53]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:841][ 54]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:841][ 54]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:841][ 54]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:844][ 54]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:868][ 55]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:868][ 55]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:868][ 55]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:871][ 55]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:895][ 56]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:895][ 56]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:895][ 56]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:898][ 56]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:921][ 57]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:921][ 57]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:921][ 57]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:924][ 57]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:948][ 58]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:949][ 58]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:949][ 58]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:952][ 58]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:975][ 59]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:975][ 59]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:975][ 59]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.15:978][ 59]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:002][ 60]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:002][ 60]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:002][ 60]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:005][ 60]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:028][ 61]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:028][ 61]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:028][ 61]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:031][ 61]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:054][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:054][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:054][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:057][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:082][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:082][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:082][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.16:085][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.48.26:967][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Hello
+[2017.05.04-04.49.01:654][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.49.01:712][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.51.52:559][745]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.04-04.51.53:193][745]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.05.04-04.51.53:459][745]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 112 classes and 0 folders.
+[2017.05.04-04.51.55:229][745]LogSlate: Took 0.010688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.05.04-04.51.55:685][746]LogSlate: Took 0.011073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.05.04-04.52.44:677][174]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.05.04-04.52.46:584][306]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.05.04-04.52.48:235][382]LogSavePackage: Save=94.14ms
+[2017.05.04-04.52.48:235][382]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/ThirdPersonCharacter3CB689574347AB93DB129F91C0167192.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.05.04-04.52.48:239][382]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.05.04-04.52.50:976][692]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.05.04-04.52.50:993][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.52.50:993][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.04-04.52.50:993][692]PIE: New page: PIE session: ThirdPersonExampleMap (May 4, 2017, 3:52:50 PM)
+[2017.05.04-04.52.50:993][692]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.05.04-04.52.51:017][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023646s)
+[2017.05.04-04.52.51:018][692]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.05.04-04.52.51:018][692]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2017.05.04-04.52.51:018][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025139s)
+[2017.05.04-04.52.51:056][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.04-04.52.51:067][692]LogInit: FAudioDevice initialized.
+[2017.05.04-04.52.51:115][692]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.05.04-04.52.51:117][692]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.05.04-10.22.51
+[2017.05.04-04.52.51:118][692]LogWorld: Bringing up level for play took: 0.002150
+[2017.05.04-04.52.51:118][692]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.52.51:118][692]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.52.51:118][692]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.52.51:119][692]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.52.51:121][692]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.389
+[2017.05.04-04.52.51:122][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.53.06:760][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Bamboo Weapon
+[2017.05.04-04.53.17:643][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Cube
+[2017.05.04-04.53.38:657][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Hello
+[2017.05.04-04.53.38:660][328]PIE:Error: Error SetInputMode_GameAndUI expects a valid player controller as target
+[2017.05.04-04.53.38:664][328]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:664][328]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:664][328]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:668][328]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:688][329]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:688][329]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:688][329]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:692][329]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:715][330]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:715][330]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:715][330]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:719][330]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:743][331]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:743][331]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:743][331]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:747][331]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:771][332]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:771][332]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:771][332]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:775][332]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:798][333]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:798][333]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:798][333]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:801][333]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:826][334]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:827][334]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:827][334]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:830][334]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:853][335]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:853][335]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:853][335]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:857][335]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:881][336]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:881][336]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:881][336]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:885][336]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:909][337]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:909][337]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:909][337]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:913][337]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:936][338]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:936][338]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:936][338]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:940][338]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:964][339]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:964][339]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:964][339]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:968][339]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:993][340]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:993][340]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:993][340]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.38:996][340]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:020][341]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:020][341]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:020][341]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:023][341]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:047][342]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:047][342]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:047][342]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:051][342]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:076][343]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:076][343]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:076][343]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:080][343]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:103][344]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:103][344]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:103][344]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:107][344]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:131][345]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:131][345]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:131][345]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:134][345]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:159][346]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:159][346]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:160][346]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:163][346]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:186][347]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:186][347]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:186][347]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:190][347]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:215][348]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:215][348]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:215][348]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:218][348]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:243][349]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:243][349]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:243][349]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:247][349]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:270][350]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:270][350]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:270][350]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:274][350]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:298][351]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:298][351]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:298][351]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:302][351]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:327][352]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:327][352]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:327][352]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:331][352]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:354][353]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:354][353]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:354][353]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:358][353]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:383][354]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:383][354]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:383][354]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:386][354]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:411][355]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:411][355]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:411][355]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:414][355]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:439][356]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:439][356]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:439][356]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:443][356]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:468][357]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:468][357]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:468][357]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:471][357]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:496][358]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:496][358]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:496][358]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:499][358]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:525][359]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:525][359]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:525][359]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:529][359]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:553][360]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:553][360]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:553][360]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:556][360]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:581][361]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:581][361]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:581][361]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:584][361]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:611][362]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:611][362]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:611][362]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:614][362]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:638][363]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:638][363]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:638][363]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:642][363]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:666][364]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:666][364]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:666][364]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:669][364]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:694][365]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:694][365]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:694][365]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:697][365]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:721][366]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:721][366]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:721][366]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:725][366]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:749][367]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:749][367]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:749][367]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:753][367]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:777][368]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:777][368]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:777][368]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:782][368]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:805][369]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:805][369]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:805][369]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:809][369]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:832][370]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:832][370]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:832][370]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:837][370]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:861][371]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:861][371]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:861][371]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:866][371]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:886][372]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:886][372]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:886][372]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:891][372]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:915][373]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:915][373]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:915][373]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:919][373]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:942][374]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:942][374]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:942][374]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:946][374]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:970][375]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:970][375]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:970][375]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:973][375]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:998][376]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:998][376]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.39:998][376]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:001][376]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:025][377]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:025][377]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:025][377]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:028][377]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:052][378]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:052][378]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:052][378]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:056][378]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:080][379]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:080][379]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:080][379]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:083][379]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:108][380]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:108][380]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:108][380]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:111][380]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:135][381]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:135][381]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:135][381]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:139][381]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:162][382]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:162][382]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:162][382]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:166][382]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:191][383]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:191][383]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:191][383]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:194][383]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:218][384]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:218][384]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:218][384]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:221][384]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:245][385]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:245][385]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:245][385]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:248][385]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:273][386]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:273][386]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:273][386]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:276][386]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:301][387]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:301][387]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:301][387]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:304][387]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:331][388]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:331][388]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:331][388]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:334][388]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:356][389]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:357][389]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:357][389]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:360][389]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:384][390]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:384][390]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:384][390]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:389][390]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:412][391]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:412][391]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:412][391]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:416][391]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:439][392]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:439][392]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:439][392]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:443][392]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:467][393]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:467][393]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:467][393]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:472][393]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:495][394]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:495][394]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:495][394]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:499][394]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:523][395]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:523][395]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:523][395]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:528][395]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:550][396]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:550][396]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:550][396]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:553][396]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:577][397]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:577][397]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:577][397]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:581][397]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:605][398]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:605][398]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:605][398]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:609][398]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:633][399]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:633][399]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:633][399]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:637][399]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:661][400]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:661][400]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:661][400]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:665][400]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:688][401]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:688][401]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:688][401]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:692][401]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:716][402]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:716][402]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:716][402]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:720][402]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:745][403]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:745][403]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:745][403]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:749][403]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:772][404]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:772][404]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:772][404]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:776][404]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:800][405]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:800][405]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:800][405]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:804][405]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:828][406]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:828][406]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:828][406]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:832][406]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:855][407]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:855][407]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:855][407]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:859][407]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:883][408]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:883][408]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:883][408]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:887][408]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:911][409]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:911][409]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:911][409]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:915][409]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:943][410]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:943][410]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:943][410]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:947][410]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:970][411]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:970][411]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:970][411]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:974][411]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:997][412]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:997][412]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.40:998][412]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:001][412]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:026][413]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:026][413]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:026][413]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:030][413]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:054][414]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:054][414]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:054][414]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:057][414]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:081][415]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:081][415]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:081][415]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:084][415]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:110][416]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:110][416]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:110][416]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:113][416]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:138][417]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:138][417]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:138][417]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:142][417]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:164][418]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:164][418]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:164][418]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:167][418]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:192][419]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:192][419]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:192][419]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:196][419]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:219][420]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:219][420]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:219][420]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:223][420]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:247][421]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:247][421]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:247][421]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:251][421]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:275][422]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:275][422]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:275][422]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:279][422]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:303][423]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:303][423]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:303][423]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:307][423]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:331][424]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:331][424]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:331][424]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:334][424]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:359][425]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:359][425]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:359][425]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:362][425]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:387][426]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:387][426]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:387][426]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:391][426]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:414][427]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:414][427]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:414][427]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:417][427]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:443][428]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:443][428]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:443][428]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:447][428]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:470][429]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:470][429]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:470][429]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:474][429]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:498][430]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:498][430]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:498][430]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:502][430]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:526][431]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:526][431]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:526][431]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:531][431]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:552][432]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:552][432]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:552][432]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:556][432]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:582][433]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:582][433]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:582][433]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:587][433]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:608][434]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:608][434]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:609][434]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:613][434]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:636][435]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:636][435]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:636][435]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:641][435]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:664][436]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:664][436]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:664][436]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:668][436]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:692][437]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:692][437]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:692][437]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:697][437]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:719][438]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:719][438]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:719][438]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:724][438]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:748][439]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:748][439]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:748][439]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:752][439]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:774][440]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:774][440]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:774][440]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:779][440]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:801][441]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:801][441]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:801][441]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:805][441]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:829][442]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:829][442]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:829][442]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:834][442]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:857][443]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:857][443]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:857][443]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:863][443]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:884][444]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:884][444]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:884][444]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:888][444]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:911][445]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:911][445]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:911][445]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:915][445]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:938][446]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:938][446]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:938][446]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.41:943][446]LogScriptCore:Warning: Script Msg: Attempted to access index -1 from array inventory of length 2!
+[2017.05.04-04.53.47:650][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.53.47:717][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.53.53:129][248]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.05.04-04.53.54:624][303]LogSavePackage: Save=92.11ms
+[2017.05.04-04.53.54:624][303]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/ThirdPersonCharacter2AC45C8D4EDC2C76C1D1749B9CFC5775.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.05.04-04.53.54:629][303]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.05.04-04.53.57:346][622]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.05.04-04.53.57:358][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.53.57:358][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.04-04.53.57:358][622]PIE: New page: PIE session: ThirdPersonExampleMap (May 4, 2017, 3:53:57 PM)
+[2017.05.04-04.53.57:358][622]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.05.04-04.53.57:385][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026715s)
+[2017.05.04-04.53.57:386][622]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.05.04-04.53.57:386][622]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2017.05.04-04.53.57:387][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028677s)
+[2017.05.04-04.53.57:427][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.04-04.53.57:437][622]LogInit: FAudioDevice initialized.
+[2017.05.04-04.53.57:487][622]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.05.04-04.53.57:490][622]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.05.04-10.23.57
+[2017.05.04-04.53.57:490][622]LogWorld: Bringing up level for play took: 0.003025
+[2017.05.04-04.53.57:491][622]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.53.57:491][622]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.04-04.53.57:491][622]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.53.57:491][622]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.04-04.53.57:496][622]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.015
+[2017.05.04-04.53.57:496][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.54.01:257][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Cube
+[2017.05.04-04.54.09:335][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Bamboo Weapon
+[2017.05.04-04.54.13:445][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.54.13:514][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.04-04.54.19:891][891]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.05.04-04.54.20:689][894]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.04-04.54.21:522][961]LogSavePackage: Save=98.41ms
+[2017.05.04-04.54.21:522][961]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/ThirdPersonCharacter409C1FD24F3BF680369B67BC92D2259A.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.05.04-04.54.21:526][961]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.05.04-04.56.48:496][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Sphere" FILE="../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/Actor/BP_Sphere.uasset" SILENT=true
+[2017.05.04-04.56.48:507][ 21]LogSavePackage: Save=9.06ms
+[2017.05.04-04.56.48:507][ 21]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/BP_Sphere25D3DD5841B25A98549FD3831BDB4BD6.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/Actor/BP_Sphere.uasset'
+[2017.05.04-04.56.48:512][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/Actor/BP_Sphere.uasset
+[2017.05.04-04.57.02:709][776]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.05.04-04.57.02:836][776]SourceControl: Info [master 213557c] add
+[2017.05.04-04.57.02:836][776]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.05.04-04.57.02:836][776]SourceControl: Info  create mode 100644 Content/Blueprints/Actor/BP_Sphere.uasset
+[2017.05.04-04.57.02:841][776]SourceControl: Info Commited [master 213557c] add.
+[2017.05.04-04.57.17:100][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sphere_C (BP_Sphere)
+[2017.05.04-04.57.18:217][349]Cmd: DELETE
+[2017.05.04-04.57.18:217][349]Cmd: ACTOR DELETE
+[2017.05.04-04.57.18:218][349]LogEditorActor: Deleted Actor: BP_Sphere_C
+[2017.05.04-04.57.18:254][349]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2017.05.04-04.57.20:114][465]LogActorFactory: Actor Factory created Sphere
+[2017.05.04-04.57.20:483][486]LogActorFactory: Actor Factory created Sphere
+[2017.05.04-04.57.26:287][728]Cmd: DELETE
+[2017.05.04-04.57.26:288][728]Cmd: ACTOR DELETE
+[2017.05.04-04.57.26:288][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.05.04-04.57.26:322][728]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.05.04-04.58.04:622][  5]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.04-04.58.06:117][105]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.05.04-04.58.06:119][105]LogTemp:Display: Added material ShaderMap 0x0000023544291280 with Material 0x0000023544253E80 to ShaderMapsBeingCompiled
+[2017.05.04-04.58.06:167][105]LogTemp:Display: Kicking off shader compilation for M_Brick_Clay_Beveled, GameThreadShaderMap 0x0000023544291280
+[2017.05.04-04.58.15:447][507]LogTemp:Display: Finished compile of shader map 0x0000023544291280
+[2017.05.04-04.58.15:447][507]LogTemp:Display: Shader map M_Brick_Clay_Beveled complete, GameThreadShaderMap 0x0000023544291280, marking material M_Brick_Clay_Beveled as finished
+[2017.05.04-04.58.15:447][507]LogTemp:Display: Marking material as finished 0x0000023544253E80
+[2017.05.04-04.59.54:800][987]LogSavePackage: Save=7459.15ms
+[2017.05.04-04.59.54:800][987]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/ThirdPersonExampleMap_Auto15C4E1254485BD1D260D2FB8827E5EB3E.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.05.04-04.59.54:802][987]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.05.04-04.59.54:804][987]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 7.529
+[2017.05.04-04.59.54:804][987]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.529
+[2017.05.04-04.59.54:806][987]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actor/BP_Sphere] ([1] browsable assets)...
+[2017.05.04-04.59.54:887][987]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actor/BP_Sphere.BP_Sphere]
+[2017.05.04-04.59.54:887][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actor/BP_Sphere]
+[2017.05.04-04.59.54:940][987]LogSavePackage: Save=23.40ms
+[2017.05.04-04.59.54:940][987]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/BP_Sphere_Auto189F5C04C4F7D5694FDF997A1053C46C7.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/Autosaves/Game/Blueprints/Actor/BP_Sphere_Auto1.uasset'
+[2017.05.04-04.59.54:943][987]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/Autosaves/Game/Blueprints/Actor/BP_Sphere_Auto1.uasset
+[2017.05.04-04.59.54:943][987]LogFileHelpers: Auto-saving content packages took 0.138
+[2017.05.04-05.01.02:771][219]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\kasun lakmal\Desktop\Sphere_test.jpg)
+[2017.05.04-05.01.02:777][219]LogTexture:Display: Building textures: Sphere_test (BGRA8)
+[2017.05.04-05.01.10:341][753]LogSavePackage: Save=9.12ms
+[2017.05.04-05.01.10:341][753]LogSavePackage: Moving '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Saved/Sphere_test35252C14456D89510670628A0EEAA7D1.tmp' to '../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/Actor/Thumbnails/Sphere_test.uasset'
+[2017.05.04-05.01.10:345][753]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kasun lakmal/Documents/Unreal Projects/Tutorial/Content/Blueprints/Actor/Thumbnails/Sphere_test.uasset
+[2017.05.04-05.01.20:624][127]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.05.04-05.01.20:730][127]SourceControl: Info [master 1fb64c9] s
+[2017.05.04-05.01.20:730][127]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.05.04-05.01.20:730][127]SourceControl: Info  create mode 100644 Content/Blueprints/Actor/Thumbnails/Sphere_test.uasset
+[2017.05.04-05.01.20:735][127]SourceControl: Info Commited [master 1fb64c9] s.
